@@ -16,5 +16,8 @@ public class Bai34 {
         do {
             sum3+=b;
         }while(b<n);
+        System.out.println(" kq1 : "+sum1);
+        System.out.println(" kq2 : "+sum2);
+        System.out.println(" kq3 : "+sum3);
     }
 }
